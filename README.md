@@ -1,2 +1,0 @@
-# rohan.github.io
-portfolio
